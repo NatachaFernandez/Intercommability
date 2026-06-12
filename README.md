@@ -2,7 +2,7 @@
 
 Intercommability™ - Communication-first, identity-proofed interoperability for trusted, adaptive, person-centered exchange.
 
-Intercommability i the capability of systems, organizations, and individuals to achieve seamless, adaptive, and secure identity-proofed communicaiton accross digital enviornments.
+Intercommability is the capability of systems, organizations, and individuals to achieve seamless, adaptive, and secure identity-proofed communicaiton accross digital enviornments.
 
 It extends interoperability beyond data exchange by prioritizing:
 

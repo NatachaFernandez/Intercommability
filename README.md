@@ -21,11 +21,17 @@ It extends interoperability beyond data exchange by prioritizing:
 # Enablers
 
 -TIM+ (Trusted Instant Messaging Plus)
+
 -Direct Secure Messaging
+
 -Identity & Trust Frameworks
+
 -Consent & Policy
+
 -Workflow Redesign
+
 -TEFCA Alignment
+
 -Community Coordination
 
 # Vision

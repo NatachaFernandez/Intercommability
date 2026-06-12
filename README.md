@@ -7,10 +7,15 @@ Intercommability i the capability of systems, organizations, and individuals to 
 It extends interoperability beyond data exchange by prioritizing:
 
 -Trust and identity built into every interaction
+
 -Adaptive and context-aware communication
+
 -Interoperablity accross people, communities, and organizations
+
 -Real-time information flow
+
 -Community-centered coordination
+
 -Person-centered outcomes
 
 # Enablers
